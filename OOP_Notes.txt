@@ -1,0 +1,30 @@
+# Definitions
+
+* What is Object Oriented Program?
+Building programs around objects. Model real world object. Objects are virtual 'living things'.
+Each "Thing" *has* something and *can* do something. Objects have data and functionality.
+You make things (objects) from blue prints.
+
+* Class is a blue print (Spiritual Creation).
+
+* Constructor:
+What Problem does constructor is solving?
+How can i specify all the starting pieces of information when i create object from a class.
+Constructor is part of the blueprint that allows us to specify what should happen when our object is being constructed.
+
+Constructor is maker of Object.
+
+* Self it a way for us to refer to the object that is going to be created from the class blueprint. Self is the object
+being created.
+
+
+* Objects are like people. They’re living, breathing things that
+- have knowledge inside them about how to do things (methods) and
+- have memory inside them so they can remember things (attributes).
+
+* Attributes are things that a object has. Basically variables.
+* Methods are things that a object does. A function that is attached to an object is called method
+
+
+Initialing is setting something to its starting value. Python creates space in memory to remember details of attributes
+
